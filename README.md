@@ -1,1 +1,3 @@
-# seng438-assignment-5
+This repository is strictly for SENG 438 assignment 4.
+
+Note:
